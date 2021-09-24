@@ -1,0 +1,67 @@
+* {
+    background-color: antiquewhite;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    text-align: center;
+}
+
+a {
+    color: lightcoral;
+    font-weight: bold;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px solid #000;
+}
+
+hr {
+    border: 1px dashed #000; 
+    width: 90%; 
+    margin: auto; 
+    margin-top: 5%; 
+    margin-bottom: 5%;
+}
+
+#guy {
+    border: 0;
+    margin-bottom: 5%;
+}
+
+#toc {
+    display: table;
+    margin:0 auto
+}
+
+.desc, .desc-text  {
+    text-align: center;
+    font-style: italic;
+}
+
+.ingr, .steps {
+    text-decoration: underline;
+}
+
+.ingr-list, .steps-list {
+    font-style: oblique;
+    font-size: 17px;
+}
+
+.home {
+    font-size: 20px;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+}
+
+#bake, #boil, #rest {
+    color:aquamarine;
+}
+
+#salt, #onion, #cheese {
+    color:limegreen;
+}
